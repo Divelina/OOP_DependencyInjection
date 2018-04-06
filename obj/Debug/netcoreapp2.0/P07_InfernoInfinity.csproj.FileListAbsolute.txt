@@ -1,0 +1,11 @@
+E:\Develop\C#_OOP_Advanced\04Exc_ReflectionsAndAttributes\P06_09\P07_InfernoInfinity\bin\Debug\netcoreapp2.0\P07_InfernoInfinity.deps.json
+E:\Develop\C#_OOP_Advanced\04Exc_ReflectionsAndAttributes\P06_09\P07_InfernoInfinity\bin\Debug\netcoreapp2.0\P07_InfernoInfinity.runtimeconfig.json
+E:\Develop\C#_OOP_Advanced\04Exc_ReflectionsAndAttributes\P06_09\P07_InfernoInfinity\bin\Debug\netcoreapp2.0\P07_InfernoInfinity.runtimeconfig.dev.json
+E:\Develop\C#_OOP_Advanced\04Exc_ReflectionsAndAttributes\P06_09\P07_InfernoInfinity\bin\Debug\netcoreapp2.0\P07_InfernoInfinity.dll
+E:\Develop\C#_OOP_Advanced\04Exc_ReflectionsAndAttributes\P06_09\P07_InfernoInfinity\bin\Debug\netcoreapp2.0\P07_InfernoInfinity.pdb
+E:\Develop\C#_OOP_Advanced\04Exc_ReflectionsAndAttributes\P06_09\P07_InfernoInfinity\obj\Debug\netcoreapp2.0\P07_InfernoInfinity.csprojResolveAssemblyReference.cache
+E:\Develop\C#_OOP_Advanced\04Exc_ReflectionsAndAttributes\P06_09\P07_InfernoInfinity\obj\Debug\netcoreapp2.0\P07_InfernoInfinity.csproj.CoreCompileInputs.cache
+E:\Develop\C#_OOP_Advanced\04Exc_ReflectionsAndAttributes\P06_09\P07_InfernoInfinity\obj\Debug\netcoreapp2.0\P07_InfernoInfinity.AssemblyInfoInputs.cache
+E:\Develop\C#_OOP_Advanced\04Exc_ReflectionsAndAttributes\P06_09\P07_InfernoInfinity\obj\Debug\netcoreapp2.0\P07_InfernoInfinity.AssemblyInfo.cs
+E:\Develop\C#_OOP_Advanced\04Exc_ReflectionsAndAttributes\P06_09\P07_InfernoInfinity\obj\Debug\netcoreapp2.0\P07_InfernoInfinity.dll
+E:\Develop\C#_OOP_Advanced\04Exc_ReflectionsAndAttributes\P06_09\P07_InfernoInfinity\obj\Debug\netcoreapp2.0\P07_InfernoInfinity.pdb
